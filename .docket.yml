@@ -1,0 +1,7 @@
+build:
+  gate: local
+  test_command: npm test
+finalize:
+  gate: local
+  test_command: npm test
+agent_harnesses: [claude, cursor]
