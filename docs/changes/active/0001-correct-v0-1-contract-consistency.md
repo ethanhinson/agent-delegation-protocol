@@ -28,10 +28,9 @@ claimed_at: 2026-08-12T05:50:21Z
 <!-- docket:artifacts:start (generated — do not hand-edit) -->
 | Artifact | Link |
 |---|---|
-| Spec | [2026-08-12-correct-v0-1-contract-consistency-design.md](https://github.com/ethanhinson/adp/blob/docket/docs/superpowers/specs/2026-08-12-correct-v0-1-contract-consistency-design.md) |
-| Plan | [2026-08-12-correct-v0-1-contract-consistency.md](https://github.com/ethanhinson/adp/blob/feat/correct-v0-1-contract-consistency/docs/superpowers/plans/2026-08-12-correct-v0-1-contract-consistency.md) |
-| Results | [2026-08-12-correct-v0-1-contract-consistency-results.md](https://github.com/ethanhinson/adp/blob/feat/correct-v0-1-contract-consistency/docs/results/2026-08-12-correct-v0-1-contract-consistency-results.md) |
-| PR | [#1](https://github.com/ethanhinson/adp/pull/1) |
+| Spec | [2026-08-12-correct-v0-1-contract-consistency-design.md](../../superpowers/specs/2026-08-12-correct-v0-1-contract-consistency-design.md) |
+| Plan | [2026-08-12-correct-v0-1-contract-consistency.md](../../superpowers/plans/2026-08-12-correct-v0-1-contract-consistency.md) |
+| Results | [2026-08-12-correct-v0-1-contract-consistency-results.md](../../results/2026-08-12-correct-v0-1-contract-consistency-results.md) |
 <!-- docket:artifacts:end -->
 
 ## Why
